@@ -152,4 +152,4 @@ st.markdown("""
         Powered by Hugging Face Transformers and Streamlit.
     </p>
     """, unsafe_allow_html=True)
-�
+
